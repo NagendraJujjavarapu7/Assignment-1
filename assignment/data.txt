@@ -1,0 +1,33 @@
+the value of num1: 1.0
+the value of num2: 2.0
+the value of num3: 3.0
+the value of num: 4.0
+the value of num: 5.0
+the values of all nums:  15.0the value of number1: 2.0
+the value of num2: 5.0
+the value of num3: 6.0
+the value of num4: 9.0
+the value of num5: 5.0
+the values of all nums:  27.0
+the details:  {'& C:/Users/nagen/AppData/Local/Programs/Python/Python311/python.exe c:/Users/nagen/OneDrive/Desktop/assignment/assignment.py': 'red'}
+the value of number1: 1.0
+the value of number2: 2.0
+the value of number3: 3.0
+the value of number4: 6.0
+the value of number5: 3.0
+the values of all numbers:  15.0
+the details:  {'toyota': 'red'}
+the value of number1: 2.0
+the value of number2: 3.0
+the value of number3: 6.0
+the value of number4: 3.0
+the value of number5: 6.0
+the values of all numbers:  20.0
+the details:  {'white': 'white'}
+the value of number1: 4.0
+the value of number2: 5.0
+the value of number3: 6.0
+the value of number4: 3.0
+the value of number5: 6.0
+the values of all numbers:  24.0
+the details:  {'mercides': 'black'}
